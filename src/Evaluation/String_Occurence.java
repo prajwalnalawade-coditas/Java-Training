@@ -4,6 +4,9 @@ public class String_Occurence {
         String str= "what are you doing";
         StringBuilder newstr=new StringBuilder();
         int count=1;
+
+// added comment
+
         for(int i=0; i<str.length(); i++){
         if(i+1<str.length() && str.charAt(i)==str.charAt(i+1)){
             count++;
