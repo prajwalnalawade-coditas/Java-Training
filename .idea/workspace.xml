@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a068806e-63de-462a-9f6a-dc0b64249bba" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="397DriXyaCJgQx19jaF0N7eDFra" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Accbalance.executor": "Run",
+    "Application.Avg.executor": "Run",
+    "Application.Class_obj_prog.executor": "Run",
+    "Application.CompressString.executor": "Run",
+    "Application.Compress_String.executor": "Run",
+    "Application.Constructor_prog.executor": "Run",
+    "Application.Diamond_pattern.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Maximum_subarray.executor": "Run",
+    "Application.Merge_intervals.executor": "Run",
+    "Application.Min_Max_array.executor": "Run",
+    "Application.Mirrored_pattern.executor": "Run",
+    "Application.Prog_4.Compress_String.executor": "Run",
+    "Application.Shape.executor": "Run",
+    "Application.Shopping.executor": "Run",
+    "Application.Sort_colors.executor": "Run",
+    "Application.Spiral_matrix.executor": "Run",
+    "Application.Sq_Area.executor": "Run",
+    "Application.String_Occurence.executor": "Run",
+    "Application.Tax_regime.executor": "Run",
+    "Application.This.executor": "Run",
+    "Application.Two_sum.executor": "Run",
+    "Application.Vowel_count.executor": "Run",
+    "Application.encapsulation.executor": "Run",
+    "Application.four_sum.executor": "Run",
+    "Application.item.executor": "Run",
+    "Application.triangle_pattern.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Week1",
+    "ignore.preview.features.used": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Coditas-Admin/IdeaProjects/Week1Java/src/Prog_10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Coditas-Admin/IdeaProjects/Week_2_Java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Polymorphism" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Compress_String">
+    <configuration name="CompressString" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompressString" />
+      <module name="Week1Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compress_String" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compress_String" />
+      <module name="Week1Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Diamond_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prog_6.Diamond_pattern" />
+      <module name="Week1Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prog_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Diamond_pattern" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a068806e-63de-462a-9f6a-dc0b64249bba" name="Changes" comment="" />
+      <created>1770038420189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770038420189</updated>
+      <workItem from="1770038424552" duration="1131000" />
+      <workItem from="1770091412655" duration="17159000" />
+      <workItem from="1770134874643" duration="3614000" />
+      <workItem from="1770179707204" duration="14662000" />
+      <workItem from="1770274732114" duration="5851000" />
+      <workItem from="1770288371239" duration="601000" />
+      <workItem from="1770352100809" duration="13110000" />
+      <workItem from="1770548100057" duration="2807000" />
+      <workItem from="1770556611064" duration="3477000" />
+      <workItem from="1770610099983" duration="12720000" />
+      <workItem from="1770631067900" duration="3202000" />
+      <workItem from="1770636806699" duration="2079000" />
+      <workItem from="1770709025025" duration="8376000" />
+      <workItem from="1770777102342" duration="1260000" />
+      <workItem from="1770790771310" duration="6504000" />
+      <workItem from="1770799583506" duration="3136000" />
+      <workItem from="1770806377951" duration="4090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week2Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Week_2_Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
